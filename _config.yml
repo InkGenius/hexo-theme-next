@@ -353,7 +353,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 4af52b13e162ae25a5b3f54834659e88
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -531,7 +531,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: 0sxj8g8de97pvyUWWIkuxzhw-gzGzoHsz
   app_key: Q0b5FBGU2VkwcYaQ63As7vNw
 
