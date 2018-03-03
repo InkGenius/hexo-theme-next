@@ -531,9 +531,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: 0sxj8g8de97pvyUWWIkuxzhw-gzGzoHsz
+  app_key: Q0b5FBGU2VkwcYaQ63As7vNw
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId
@@ -802,11 +802,6 @@ vendors:
   # needMoreShare2
   # https://github.com/revir/need-more-share2
   needMoreShare2:
-
-leancloud_visitors:
-  enable: true
-  app_id: 0sxj8g8de97pvyUWWIkuxzhw-gzGzoHsz
-  app_key: Q0b5FBGU2VkwcYaQ63As7vNw
 
 # Assets
 css: css
